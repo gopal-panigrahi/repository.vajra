@@ -1,0 +1,3 @@
+[submodule "repo/plugin.video.sonyliv"]
+	path = repo/plugin.video.sonyliv
+	url = https://github.com/gopal-panigrahi/plugin.video.sonyliv
