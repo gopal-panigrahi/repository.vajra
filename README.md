@@ -2,7 +2,7 @@
 This repository is for OTT Apps
 
 ## Supported Addons
-- [Sony Liv Plugin for Kodi](https://github.com/gopal-panigrahi/plugin.video.sonyliv).
+- [Sony Liv Plugin for Kodi](https://github.com/gopal-panigrahi/plugin.video.sonyliv#sony-liv-plugin-for-kodi-pluginvideosonyliv).
 
 ## Installation & Updates
 
