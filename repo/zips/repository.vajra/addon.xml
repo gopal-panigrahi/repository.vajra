@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.vajra" name="Indian OTT" version="1.0.0" provider-name="Vàjrà">
-    <extension point="xbmc.addon.repository" name="Indian OTT">
+<addon id="repository.vajra" name="Vajra Repository" version="1.0.0" provider-name="Vàjrà">
+    <extension point="xbmc.addon.repository" name="Vajra Repository">
         <dir>
             <info compressed="false">https://raw.githubusercontent.com/gopal-panigrahi/repository.vajra/main/repo/zips/addons.xml</info>
             <checksum>https://raw.githubusercontent.com/gopal-panigrahi/repository.vajra/main/repo/zips/addons.xml.md5</checksum>
@@ -8,7 +8,7 @@
         </dir>
     </extension>
     <extension point="xbmc.addon.metadata">
-        <summary>Indian OTT</summary>
+        <summary>Vajra Repository</summary>
         <description>This repository is for Indian OTT Apps</description>
         <disclaimer></disclaimer>
         <platform>all</platform>
