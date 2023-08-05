@@ -24,8 +24,13 @@ Launched in January 2013, it enables users to discover 20 years of rich content 
 			<screenshot>resources/media/screenshot-03.webp</screenshot>
 		</assets>
 	</extension>
-</addon><addon id="repository.vajra" name="Vajra Repository" provider-name="Vàjrà" version="1.0.0">
+</addon><addon id="repository.vajra" name="Vajra Repository" provider-name="Vàjrà" version="1.0.1">
     <extension name="Vajra Repository" point="xbmc.addon.repository">
+        <dir minversion="20.0.0">
+            <info compressed="false">https://raw.githubusercontent.com/gopal-panigrahi/repository.vajra/main/nexus/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/gopal-panigrahi/repository.vajra/main/nexus/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/gopal-panigrahi/repository.vajra/main/nexus/zips/</datadir>
+        </dir>
         <dir>
             <info compressed="false">https://raw.githubusercontent.com/gopal-panigrahi/repository.vajra/main/repo/zips/addons.xml</info>
             <checksum>https://raw.githubusercontent.com/gopal-panigrahi/repository.vajra/main/repo/zips/addons.xml.md5</checksum>
