@@ -5,3 +5,6 @@
 	path = nexus/plugin.video.sonyliv
 	url = https://github.com/gopal-panigrahi/plugin.video.sonyliv.git
 	branch = nexus
+[submodule "repo/plugin.video.zee5"]
+	path = repo/plugin.video.zee5
+	url = https://github.com/gopal-panigrahi/plugin.video.zee5.git
