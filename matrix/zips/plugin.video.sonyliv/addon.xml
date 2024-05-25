@@ -1,11 +1,11 @@
-<?xml version='1.0' encoding='utf-8'?>
-<addons><addon id="plugin.video.sonyliv" name="SonyLIV" provider-name="Vàjrà" version="1.0.3">
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="plugin.video.sonyliv" version="1.0.5" name="SonyLIV" provider-name="Vàjrà">
 	<requires>
 		<import addon="xbmc.python" version="3.0.0" />
 		<import addon="script.module.codequick" version="1.0.3" />
 		<import addon="script.module.inputstreamhelper" version="0.6.1" />
 	</requires>
-	<extension library="addon.py" point="xbmc.python.pluginsource">
+	<extension point="xbmc.python.pluginsource" library="addon.py">
 		<provides>video</provides>
 	</extension>
 	<extension point="xbmc.addon.metadata">
@@ -24,4 +24,4 @@ Launched in January 2013, it enables users to discover 20 years of rich content 
 			<screenshot>resources/media/screenshot-03.webp</screenshot>
 		</assets>
 	</extension>
-</addon></addons>
+</addon>

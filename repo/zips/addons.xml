@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<addons><addon id="plugin.video.sonyliv" version="1.0.5" name="SonyLIV" provider-name="Vàjrà">
+<addons><addon id="plugin.video.sonyliv" version="1.0.6" name="SonyLIV" provider-name="Vàjrà">
 	<requires>
 		<import addon="xbmc.python" version="3.0.0" />
 		<import addon="script.module.codequick" version="1.0.3" />
@@ -44,12 +44,12 @@ Launched in January 2013, it enables users to discover 20 years of rich content 
 			<fanart>fanart.png</fanart>
 		</assets>
 	</extension>
-</addon><addon id="repository.vajra" name="Vajra Repository" provider-name="Vàjrà" version="1.0.1">
-    <extension name="Vajra Repository" point="xbmc.addon.repository">
-        <dir minversion="20.0.0">
-            <info compressed="false">https://raw.githubusercontent.com/gopal-panigrahi/repository.vajra/main/nexus/zips/addons.xml</info>
-            <checksum>https://raw.githubusercontent.com/gopal-panigrahi/repository.vajra/main/nexus/zips/addons.xml.md5</checksum>
-            <datadir zip="true">https://raw.githubusercontent.com/gopal-panigrahi/repository.vajra/main/nexus/zips/</datadir>
+</addon><addon id="repository.vajra" name="Vajra Repository" version="1.0.2" provider-name="Vàjrà">
+    <extension point="xbmc.addon.repository" name="Vajra Repository">
+        <dir minversion="18.0.0" maxversion="19.9.9">
+            <info compressed="false">https://raw.githubusercontent.com/gopal-panigrahi/repository.vajra/main/matrix/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/gopal-panigrahi/repository.vajra/main/matrix/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/gopal-panigrahi/repository.vajra/main/matrix/zips/</datadir>
         </dir>
         <dir>
             <info compressed="false">https://raw.githubusercontent.com/gopal-panigrahi/repository.vajra/main/repo/zips/addons.xml</info>

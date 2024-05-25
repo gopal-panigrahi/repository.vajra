@@ -1,10 +1,10 @@
 [submodule "repo/plugin.video.sonyliv"]
 	path = repo/plugin.video.sonyliv
 	url = https://github.com/gopal-panigrahi/plugin.video.sonyliv
-[submodule "nexus/plugin.video.sonyliv"]
-	path = nexus/plugin.video.sonyliv
-	url = https://github.com/gopal-panigrahi/plugin.video.sonyliv.git
-	branch = nexus
 [submodule "repo/plugin.video.zee5"]
 	path = repo/plugin.video.zee5
 	url = https://github.com/gopal-panigrahi/plugin.video.zee5.git
+[submodule "matrix/plugin.video.sonyliv"]
+	path = matrix/plugin.video.sonyliv
+	url = https://github.com/gopal-panigrahi/plugin.video.sonyliv.git
+	branch = matrix
