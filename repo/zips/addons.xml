@@ -24,7 +24,7 @@ Launched in January 2013, it enables users to discover 20 years of rich content 
 			<screenshot>resources/media/screenshot-03.webp</screenshot>
 		</assets>
 	</extension>
-</addon><addon id="plugin.video.zee5" version="1.0.3" name="ZEE5" provider-name="Vàjrà">
+</addon><addon id="plugin.video.zee5" version="1.0.4" name="ZEE5" provider-name="Vàjrà">
 	<requires>
 		<import addon="xbmc.python" version="3.0.0" />
 		<import addon="script.module.codequick" version="1.0.3" />
