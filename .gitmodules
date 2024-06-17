@@ -4,6 +4,9 @@
 [submodule "repo/plugin.video.zee5"]
 	path = repo/plugin.video.zee5
 	url = https://github.com/gopal-panigrahi/plugin.video.zee5.git
+[submodule "repo/plugin.video.minitv"]
+	path = repo/plugin.video.minitv
+	url = https://github.com/gopal-panigrahi/plugin.video.minitv.git
 [submodule "matrix/plugin.video.sonyliv"]
 	path = matrix/plugin.video.sonyliv
 	url = https://github.com/gopal-panigrahi/plugin.video.sonyliv.git
